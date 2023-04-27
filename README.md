@@ -1,2 +1,2 @@
-# vaibhzz101.github.io
+# VishalDnyandeoPatil.github.io
 Portfolio
