@@ -1,5 +1,4 @@
-# 
-VishalDnyandeoPatil.github.io
+# VishalDnyandeoPatil.github.io
 
 
 Portfolio
