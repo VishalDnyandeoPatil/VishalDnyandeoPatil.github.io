@@ -230,7 +230,6 @@ span {
     display: inline-block;
     padding: 1rem 2.8rem;
     background: var(--bg-carolina-blue);
-    /* background: rgb(185, 39, 39); */
     border-radius: 4rem;
     box-shadow: 0 0 1rem var(--bg-carolina-blue);
     font-size: 1.6rem;
@@ -277,7 +276,7 @@ span {
 
 .home-img {
   border-radius: 10%;
-  width: 80%;
+  
 }
 
 /* me */
