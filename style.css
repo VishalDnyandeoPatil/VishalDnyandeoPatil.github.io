@@ -300,6 +300,7 @@ span {
   .heading {
     text-align: center;
     font-size: 5.5rem;
+    margin-top: 50px;
   }
   
   
@@ -588,7 +589,9 @@ span {
     border: 1px solid var(--border-prussian-blue);
   }
   .skills-card-name {
-    color: #7d91b0;
+    color: white;
+    /* font-weight: bold; */
+    /* font-size: 15px; */
   }
 
 
